@@ -1,0 +1,71 @@
+{
+  "id": "A",
+  "children": [
+    {
+      "id": "B",
+      "children": [
+        {
+          "id": "D",
+          "children": [
+            { "id": "I", "children": null },
+            {
+              "id": "J",
+              "children": [
+                {
+                  "id": "P",
+                  "children": [
+                    {
+                      "id": "W",
+                      "children": [
+                        {
+                          "id": "X",
+                          "children": [
+                            {
+                              "id": "Y",
+                              "children": [{ "id": "Z", "children": null }]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                { "id": "Q", "children": null }
+              ]
+            },
+            { "id": "K", "children": null }
+          ]
+        },
+        {
+          "id": "E",
+          "children": [
+            { "id": "L", "children": null },
+            { "id": "M", "children": null }
+          ]
+        },
+        {
+          "id": "F",
+          "children": [
+            {
+              "id": "N",
+              "children": [
+                { "id": "R", "children": null },
+                { "id": "S", "children": null },
+                { "id": "T", "children": null },
+                { "id": "U", "children": null },
+                { "id": "V", "children": null }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "children": [
+        { "id": "G", "children": null },
+        { "id": "H", "children": [{ "id": "O", "children": null }] }
+      ]
+    }
+  ]
+}

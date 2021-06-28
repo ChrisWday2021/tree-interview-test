@@ -4,16 +4,23 @@
     {
       "id": "B",
       "children": [
-        { "id": "D", "children": null },
         { "id": "E", "children": null },
         { "id": "F", "children": null }
       ]
     },
     {
-      "id": "C",
+      "id": "Z",
       "children": [
         { "id": "G", "children": null },
-        { "id": "Z", "children": null }
+        { "id": "H", "children": null }
+      ]
+    },
+    {
+      "id": "D",
+      "children": [
+        { "id": "I", "children": null },
+        { "id": "J", "children": null },
+        { "id": "K", "children": null }
       ]
     }
   ]
