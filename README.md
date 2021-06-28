@@ -10,7 +10,10 @@ A
 │   └── F
 └── C
     ├── G
-    └── Z
+    ├── Z
+    ├── I
+    ├── J
+    └── K
 ```
 
 ## [Tree 2](https://chriswday2021.github.io/tree-interview-test/tree2.json)
@@ -67,16 +70,4 @@ A
 └── C
     ├── G
     └── H
-```
-
-## [Tree 5](https://chriswday2021.github.io/tree-interview-test/tree5.json)
-```
-A
-├── B
-│   ├── Z
-│   ├── E
-│   └── F
-└── C
-    ├── G
-    └── Z
 ```
